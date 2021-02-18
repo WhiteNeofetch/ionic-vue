@@ -1,0 +1,7 @@
+{
+  "name": "jsmord",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

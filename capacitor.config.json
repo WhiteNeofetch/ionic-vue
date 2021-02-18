@@ -1,0 +1,16 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "jsmord",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "windowsAndroidStudioPath": "C:\\Program Files\\android-studio\\bin\\studio64.exe",
+  "cordova": {}
+ 
+  
+}
